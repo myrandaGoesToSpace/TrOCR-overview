@@ -34,6 +34,8 @@ Evaluation on the SROIE dataset
 <img width="478" alt="trocr_cer" src="https://user-images.githubusercontent.com/36711263/160482574-a2f94d27-32d2-4d34-a320-81b0485b0aea.png">
 Evaluation of Character Error Rate (CER) on the IAM handwriting dataset
 
+## Code Demonstration
+See trocr_example.ipynb
 
 ## Resources
 1. TrOCR: https://arxiv.org/pdf/2109.10282.pdf
