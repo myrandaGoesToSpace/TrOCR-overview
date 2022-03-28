@@ -11,7 +11,7 @@
 - No work using pre-trained models
 
 ### The Model: TrOCR
-<img width="100" alt="model architecture of the TrOCR model" src="https://user-images.githubusercontent.com/36711263/160476700-dbd6e1e9-9b4b-4e3b-acf2-5c1811548f6c.png">
+<img width="490" alt="model architecture of the TrOCR model" src="https://user-images.githubusercontent.com/36711263/160476700-dbd6e1e9-9b4b-4e3b-acf2-5c1811548f6c.png">
 - resizes image to 384 x 384, then uses 16 x 16 segments as input to model
 
 **Discussion Topic 1:** Do you think that this model is an encoder, decoder, or encoder-decoder, and why?
